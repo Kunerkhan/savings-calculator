@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8c6208d-ea1c-4775-90bd-cc5d0aa5ef09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Deadline/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Deadline/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/InfoBlock/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/InfoBlock/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Input/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Input/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Label/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Label/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Switch/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Switch/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/SavingsCalculator/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/SavingsCalculator/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1mbgBz0BWi2noYkeoTuLPrqOnrH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work_days\testTasks\savings-calculator\src\components\Input" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8c6208d-ea1c-4775-90bd-cc5d0aa5ef09" name="Default Changelist" comment="" />
+      <created>1609767572964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609767572964</updated>
+      <workItem from="1609767574055" duration="21334000" />
+      <workItem from="1610082126625" duration="610000" />
+      <workItem from="1610351559404" duration="3173000" />
+      <workItem from="1611585777081" duration="10026000" />
+      <workItem from="1611630678422" duration="27561000" />
+      <workItem from="1633333746797" duration="2721000" />
+      <workItem from="1633336796051" duration="3119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

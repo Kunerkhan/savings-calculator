@@ -1,0 +1,57 @@
+.input {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 308px;
+  height: 42px;
+  background: #FFFEFE;
+  border: 1px solid #CFCFCF;
+  border-radius: 4px;
+  text-align: center;
+  margin-top: 3px;
+  
+  input {
+    text-align: center;
+  }
+
+  input[type=number] {
+    -moz-appearance:textfield;
+  }
+
+  input[type=number]::-webkit-inner-spin-button,
+  input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+    pointer-events:none;
+  }
+
+  .MuiInputBase-input {
+    font-family: Rambla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+
+    &::placeholder {
+      font-size: 18px;
+      line-height: 22px;
+      color: #000000;
+    }
+  }
+
+  .MuiInputAdornment-root  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    min-width: 42px;
+    height: 40px;
+    max-height: 42px;
+    background-color: #F4F8FA;
+    border-radius: 4px 0px 0px 4px;
+  }
+}
+
+

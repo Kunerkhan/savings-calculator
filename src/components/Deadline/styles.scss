@@ -1,0 +1,45 @@
+.deadline {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 308px;
+  height: 42px;
+  border: 1px solid #CFCFCF;
+  border-radius: 4px;
+  background-color: #FFFEFE;
+
+  &__btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 42px;
+    height: 42.4px;
+    background-color: #F4F8FA;
+    border-radius: 4px 0px 0px 4px;
+    top: 0;
+  }
+
+  &--date {
+    font-family: Rambla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+  }
+
+  &--title {
+    font-family: Rambla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 3px;
+    color: #102C51;
+  }
+
+  button:last-child {
+    border-radius: 0px 4px 4px 0px;
+  }
+}

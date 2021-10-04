@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Rambla:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+html {
+  font-family: Rambla, sans-serif;
+}
+
+button {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+}
+
+button:focus {
+  outline: none;
+}
+
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.finish-btn {
+  width: 308px;
+  height: 42px;
+  background: #2F80ED;
+  border-radius: 10px;
+
+  font-family: Rambla;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  color: #F2F2F2;
+}

@@ -1,0 +1,61 @@
+.switch {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 20px;
+
+  .MuiSwitch-root {
+    width: 38px;
+    height: 18px;
+    background: #FFFFFF;
+    border: 1px solid #CFCFCF;
+    border-radius: 9px;
+    padding: 0;
+    align-items: center;
+    margin-right: 7px;
+
+    .Mui-disabled {
+      color: #BDBDBD;
+    }
+
+    .MuiSwitch-thumb {
+      width: 16px;
+      height: 16px;
+    }
+
+    .MuiSwitch-track {
+      height: 18px;
+      background-color: #fff;
+      border: 1px solid #CFCFCF;
+      border-radius: 9px;
+    }
+
+    .MuiSwitch-colorSecondary.Mui-checked {
+      span {
+        color: #2F80ED;
+      }
+    }
+
+    .PrivateSwitchBase-root-1 {
+      padding: 0;
+    }
+
+
+    .MuiSwitch-colorPrimary.Mui-checked:hover {
+      background-color: transparent;
+    }
+
+    .MuiSwitch-colorSecondary.Mui-checked + .MuiSwitch-track {
+      background-color: #fff;
+    }
+
+    .MuiSwitch-switchBase {
+      color: #BDBDBD;
+    }
+  }
+}
+
+
+
+
+
